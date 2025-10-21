@@ -14,7 +14,7 @@ This repository contains my manual testing assignment completed during a QA eval
 - ChatGPT (for refining bug descriptions and formatting documentation)
 
 ## Files
-- Bug_Report_Assignment.pdf (contains all identified bugs and their details)
+- Bug_Report_Assignment.docx (contains all identified bugs and their details)
 
 ---
 
